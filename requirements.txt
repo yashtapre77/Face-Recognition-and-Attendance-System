@@ -29,6 +29,7 @@ pytz==2025.2
 referencing==0.36.2
 requests==2.32.3
 rpds-py==0.24.0
+setuptools==79.0.1
 six==1.17.0
 smmap==5.0.2
 streamlit==1.44.1
